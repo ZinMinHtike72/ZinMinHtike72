@@ -3,7 +3,7 @@
 <h3 align="center">I am currently work as junior Flutter developer .</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ZinMinHtike72&label=Profile%20views&color=0e75b6&style=flat" alt="ZinMinHtike72" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZinMinHtike72&theme=" alt="ZinMinHtike72" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ZinMinHtike72&theme=tokyonight" alt="ZinMinHtike72" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter & Kotlin.**
 
@@ -25,11 +25,10 @@
 <a href="https://github.com/ZinMinHtike72">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZinMinHtike72&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZinMinHtike72&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZinMinHtike72&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZinMinHtike72&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZinMinHtike72&theme=2077" height="180em" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ZinMinHtike72&theme=default"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ZinMinHtike72&theme=modern-lilac"/>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
