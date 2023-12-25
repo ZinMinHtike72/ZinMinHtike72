@@ -1,7 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Zin Min Htike.</h1>
 <h3 align="center">I am currently work as junior Flutter developer .</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZinMinHtike72&label=Profile%20views&color=0e75b6&style=flat" alt="ZinMinHtike72" /> </p>
 
 - 🌱 I’m currently learning **Flutter & Kotlin.**
 
